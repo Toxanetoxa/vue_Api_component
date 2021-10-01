@@ -18,6 +18,7 @@ npm run lint
 
 Тестовое задание - написать компонент. Который при вводе букв будет выводить имена, которые можно будет добавить и удалить из списка.
 
+Подробнее можно увидеть здесь:
 ```
-Подробнее можно увидеть здесь https://www.figma.com/file/6nT4opugSj3brjwGoX2s7q/Test-(Copy)?node-id=202%3A289
+ https://www.figma.com/file/6nT4opugSj3brjwGoX2s7q/Test-(Copy)?node-id=202%3A289
 ```
